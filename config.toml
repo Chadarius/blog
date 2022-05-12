@@ -4,3 +4,4 @@ title = 'Suttons Assemble'
 theme = "zen"
 publishDir = "docs"
 logoPath = "images/logo.png"
+realfavicongenerator = "true"
