@@ -1,0 +1,6 @@
+baseURL = 'https://chadarius.github.io/blog'
+languageCode = 'en-us'
+title = 'Suttons Assemble'
+theme = "zen"
+publishDir = "docs"
+
