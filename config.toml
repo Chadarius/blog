@@ -1,7 +1,19 @@
 # baseURL = 'https://chadarius.github.io/blog'
+# baseURL = '/blog'
 languageCode = 'en-us'
-title = 'Suttons Assemble'
-theme = "zen"
+#title = 'Suttons Assemble'
+theme = "mainroad"
 publishDir = "docs"
 logoPath = "images/logo.png"
 realfavicongenerator = "true"
+
+[Params.logo]
+  image = "images/logo.png"
+  title = "Suttons Assemble"
+  subtitle = "The Sutton Family Blog"
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+  widgets = ["search", "recent", "categories", "taglist", "social"]
