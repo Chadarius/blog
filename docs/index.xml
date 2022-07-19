@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Suttons Assemble</title>
-    <link>https://chadarius.github.io/blog/</link>
+    <link>/</link>
     <description>Recent content on Suttons Assemble</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 May 2022 13:26:44 -0500</lastBuildDate>
-    <atom:link href="https://chadarius.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Firstpost</title>
-      <link>https://chadarius.github.io/blog/posts/firstpost/</link>
+      <link>/posts/firstpost/</link>
       <pubDate>Thu, 12 May 2022 13:26:44 -0500</pubDate>
-      <guid>https://chadarius.github.io/blog/posts/firstpost/</guid>
+      <guid>/posts/firstpost/</guid>
       <description>&lt;h1 id=&#34;testing-the-markdown&#34;&gt;Testing the Markdown&lt;/h1&gt;
 &lt;h2 id=&#34;this-could-be-fun&#34;&gt;This could be fun&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;ll see how this goes. I need to work on a few edits for the theme.&lt;/p&gt;
