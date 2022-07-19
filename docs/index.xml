@@ -6,7 +6,17 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 May 2022 13:26:44 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jul 2022 11:17:14 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Theme update</title>
+      <link>/posts/theme_update/</link>
+      <pubDate>Tue, 19 Jul 2022 11:17:14 -0500</pubDate>
+      
+      <guid>/posts/theme_update/</guid>
+      <description>I updated to the Mainroad theme. I&amp;rsquo;m still getting my Hugo legs. I love using Git. It feels very natural. But using Markdown is not.
+I also don&amp;rsquo;t have a good feel for multiple authors and the best way to handle media yet. Eventually I need to make this all relatively family friendly.</description>
+    </item>
+    
     <item>
       <title>Firstpost</title>
       <link>/posts/firstpost/</link>
